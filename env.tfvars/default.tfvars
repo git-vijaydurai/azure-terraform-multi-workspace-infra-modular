@@ -1,0 +1,10 @@
+resource_group_name = "devopsAzure"
+location            = "East US 2"
+availability_zone   = "3"
+vm_name             = "default-vm"
+vm_size             = "Standard_D2s_v3"
+admin_username      = "azureuser"
+os_type             = "UbuntuServer"
+os_disk_size_gb     = 30
+allowed_ports       = [22, 80, 443]
+subscription_id     = ""

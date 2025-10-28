@@ -6,6 +6,5 @@ crash.log
 
 env/*.terraform.tfvars
 env/*.tfvars.json
-*.tfvars  
 env.tfvars/code*
 
